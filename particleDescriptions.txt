@@ -1,0 +1,20 @@
+Lunar Dust: Commonly found on moons around the galaxy. Don't breathe it in!
+Lunar Cheese: A bit salty. Consumption may require dental surgery!
+Shine: Odd liquid that's infused with moonlight.
+Rising Light: Gaseous form of shine. May condense back into a liquid.
+Fizzfoz: Carbonated liquid that is naturally found underground.
+Acid: Eats through other materials with ease.
+Oxygen: Flammable gas that is rare in lunar powder fields.
+Carbon Dioxide: Gas that's released by burning materials and fizzy drinks.
+Wallmite: Expensive and indestructible building material.
+Allanaire: Sturdy building material that's used in frontier infrastructure.
+Molten: Liquid form of lunar dust. Shine will cool it down.
+Allakite: Lightweight material. Most things will sink through it.
+Goll: Dense material. Sinks through most things.
+Cloner: Replicates the first material it touches.
+Deleter: Removes most nearby materials.
+Onnakon: Releases lots of energy and ignites nearby materials.
+Grobben: Alien plant that slowly grows over time.
+Nessan: Flammable liquid that's secreted by grobben.
+Flitte: Flies around and eats nessan. It lives a simple life.
+Slime: Consumes all. Seems intelligent...
